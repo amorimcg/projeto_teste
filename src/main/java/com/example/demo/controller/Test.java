@@ -12,6 +12,6 @@ public class Test {
     @GetMapping
     public String test() {
         System.out.println("Ola kubernates");
-        return "Ola kubernates";
+        return "Ola Mundo";
     }
 }
